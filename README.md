@@ -13,11 +13,11 @@
 
 ## 万达云优惠码
 
-月付八折优惠：使用优惠码 [Happy](https://user2.wandacloud.xyz/#/register?code=PPAxMSVI)，享受月付账单八折优惠。
-季度七五折优惠：输入优惠码 [healthy](https://user2.wandacloud.xyz/#/register?code=PPAxMSVI)，即可获得季度账单七五折的优惠。
-半年七折优惠：应用优惠码 [halfyear](https://user2.wandacloud.xyz/#/register?code=PPAxMSVI)，享受半年账单七折优惠。
-年付五折优惠：利用优惠码 [rich](https://user2.wandacloud.xyz/#/register?code=PPAxMSVI)，享受年付账单五折的超值优惠。
-流量包套餐八折优惠：使用优惠码 [king](https://user2.wandacloud.xyz/#/register?code=PPAxMSVI)，即可享受流量包套餐八折优惠。
+- 月付八折优惠：使用优惠码 [Happy](https://user2.wandacloud.xyz/#/register?code=PPAxMSVI)，享受月付账单八折优惠。
+- 季度七五折优惠：输入优惠码 [healthy](https://user2.wandacloud.xyz/#/register?code=PPAxMSVI)，即可获得季度账单七五折的优惠。
+- 半年七折优惠：应用优惠码 [halfyear](https://user2.wandacloud.xyz/#/register?code=PPAxMSVI)，享受半年账单七折优惠。
+- 年付五折优惠：利用优惠码 [rich](https://user2.wandacloud.xyz/#/register?code=PPAxMSVI)，享受年付账单五折的超值优惠。
+- 流量包套餐八折优惠：使用优惠码 [king](https://user2.wandacloud.xyz/#/register?code=PPAxMSVI)，即可享受流量包套餐八折优惠。
 
 
 
@@ -32,3 +32,12 @@
 | ⌛ 长效流量套餐   | ¥46.90 | 一次性| 流量永久有效、30条可用线路、全流媒体解锁、最大峰值1000Mbps、200GB流量、不限设备、IPLC专线  |
 | 🌡️ 专线定制      | ¥150.00| 月付  | 直播/全球/星链线路定制、全流媒体解锁、最大峰值1000Mbps、流量任选、企业使用、IPLC专线     |
 
+
+
+## 万达云机场怎么样
+
+### 高端网络服务
+万达云机场采用IEPL企业级内网专线，最高速率可达1000Mbps，提供99%的SLA保证，覆盖全球50+节点，确保无论您身在何处都能享受到快速稳定的网络连接。
+
+### 免费试用与专用客户端
+为了让用户充分体验我们的服务，万达云机场提供注册免费试用机会。同时，我们拥有官方的Windows、Android、MAC专用客户端，操作简单，便于用户在各种平台上快速接入我们的服务，防止失联。
